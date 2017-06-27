@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.0_7746a5bb17a79e45c8272d913cb2a56270fe92fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_9d8bfebe2d32124cd5be905ffd8a61f7c6e6cb50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.0_fa20e37e2fcc99b3400628d9774400c0707c05fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_564bfac9ade2076a9c331c5f2ea22f879a6c2ad4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.0_8604a0ee4c190429c440db5e950e72206e102619/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.0_f0dec56112741c4e8134499e2f02d7524de64dd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_68a86f5cd17521f9ac80cfe77f640534b24e468b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_2b9ba51df14f0711fb43919e7dfc8180d04209b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_79a56993d7ef3006dc044100d46244720a6a061d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_0f465ca52111bcf516402d1ab3edf3948b689dc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_3c4a39663acc67ba00afcf09177c2947d3a26441/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.0_3e9d9f21852d23edfd77bef22dab73fce8336668/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_588524f5e8d34a8439f7bdcf00078c33008b593d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_c755dc6da87e0ac4b5adff0931bb03de717ae8b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.0_a34b814b1e7ca2dff7983f85c01aecdf3412bfd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_a297b16521d98ce6eae6c27f3ebc2bd4afe67403/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.0_e5b592dbef4a6a68c48dd40b7474dbe0feeb5310/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.0_867e0864712e3c5365f7c1a66ba4cca638273a61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_dd2c0848aa4ba4fb6b59caa41241659525cc9fe1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_c2025eb900e1ebc099408cdbad83a310869ebfca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_b50977b7288ed77a42571bb29a12d7c2a9551d3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9dfd1c4557168f30a9edebe090a20aeaf941330">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4ca6a16bbc7fad65a9035da5611480277c3066d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_7e5aaf0c34ffeed1a3a2dfe8b4a8803e24def99d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.2_458ef0024133a532855c023482e97549fc044a82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e277aa3b62c7a077d3d9220226a7eb62d3ed23fc">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f591bf7f6c04ce1006ede6fab42257528b5c34b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.2_e4f645c790587d214211f856fcd75948abfdacc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_a3bbbc56cad993468ab1f49080120dfe7f96a3b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/manojpun/AndroidStudioProjects/Camc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_a2a2417b907af6225b0bd8280cb0de59dee8f546/classes.dex" />
+    </item>
+
+</items>

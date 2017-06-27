@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "457304775167",
+    "firebase_url": "https://camc-32fff.firebaseio.com",
+    "project_id": "camc-32fff",
+    "storage_bucket": "camc-32fff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457304775167:android:4dbcb3de1f385dfe",
+        "android_client_info": {
+          "package_name": "com.example.manojpun.camc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457304775167-oeqc93kdjv5v2606v64m0sdll7ttt8v4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manojpun.camc",
+            "certificate_hash": "881A99667433D63CFCC819DB81743ACB6FD039E9"
+          }
+        },
+        {
+          "client_id": "457304775167-kj5icndsrhmn2g26fj3mkmmdsp49hfs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB6rjaMXR3dOXOOXFKnGP3oW9T9tci7rI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457304775167-kj5icndsrhmn2g26fj3mkmmdsp49hfs2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
